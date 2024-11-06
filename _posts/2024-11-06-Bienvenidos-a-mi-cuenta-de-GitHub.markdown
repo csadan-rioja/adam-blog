@@ -1,3 +1,3 @@
 ---
-![Yosh Ginsu]({{site.baseurl}}/assets/img/GithubLogo.png)
+![Yosh Ginsu]({{site.baseurl}}/assets/img/alpaca.jpg)
 ---
